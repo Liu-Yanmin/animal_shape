@@ -2,4 +2,4 @@
 ## debug 
 **Error:** ImportError: No module named tensorflow
 
-**solution:** run `pip install tensorflow`
+**Solution:** run `pip install tensorflow`
